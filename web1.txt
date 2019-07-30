@@ -1,1 +1,2 @@
 first branch of git
+getting the first modification 
